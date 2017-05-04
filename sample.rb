@@ -5,7 +5,7 @@ require "rubygems"
 require "nokogiri"
 
 # スクレイピングするURL
-url = "http://www.walmart.com.br/"
+url = "http://www.yahoo.co.jp"
 
 charset = nil
 html = open(url) do |f|
